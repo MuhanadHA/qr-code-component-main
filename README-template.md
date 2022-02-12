@@ -48,8 +48,8 @@ I want to do another project that focuses on HTML and CSS, I need more reviewing
 
 ### Useful resources
 
-- [Example resource 1](https://fonts.google.com/) - used this for the fonts.
-- [Example resource 2](https://www.w3schools.com/) - I reviewed some of the basic concepts to get me going with the project.
+- [Google Fonts](https://fonts.google.com/) - used this for the fonts.
+- [W3school](https://www.w3schools.com/) - I reviewed some of the basic concepts to get me going with the project.
 
 ## Author
 
