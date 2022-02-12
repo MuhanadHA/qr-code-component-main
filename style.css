@@ -1,0 +1,44 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+html{
+  background-color: hsl(212, 45%, 89%);
+  font-family: 'Outfit', sans-serif;;
+}
+
+
+.img{
+  width: 95%;
+  border-radius: 15px;
+}
+
+h1{
+  margin: 1.5rem 0;
+  font-size: 1.5rem;
+  padding: 0 1.3rem;
+}
+
+p{
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  padding:0 1.3rem;
+}
+
+.container{
+  text-align: center;
+  margin: auto;
+  margin-top: 12vh;
+  padding: 1rem .5rem;
+  width: 23%;
+  height: 35rem;
+  background-color: white; 
+  border-radius: 20px;
+  }
+
+  .attribution{
+    text-align: center;
+    margin-top: 2rem;
+  }
